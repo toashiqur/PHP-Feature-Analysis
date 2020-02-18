@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# PHP Language Feature Analysis
 
-You can use the [editor on GitHub](https://github.com/toashiqur/PHP-Feature-Analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Evolution of a programming language is necessary to keep the language useful. Deprecation, removal and feature enhancement are some essential parts of evolution. However, selecting features for evolution is not an easy task. Feature analysis is an approach that can help in this process. It finds usage frequency of different language features in existing source files. In this project, we attempt to analyse the features of PHP, a general purpose web scripting language. PHP is very rich in features, but all are not equally useful, some features have alternative forms, and some are problematic. Therefore, programmers try to avoid unnecessary, confusing and problematic features in their programs. We analyse features of seven different categories. Our analysis finds usage frequency of various features, and shows differences exist in the usage of alternative forms of features, magic methods, magic constants, and functions. Attention of language engineers on those can help to improve the language in its future version.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The report of PHP language feature analysis can be downloaded from [PHP Language Feature Analysis](https://github.com/toashiqur/PHP-Feature-Analysis/blob/master/assets/docs/php_feature_analysis.pdf).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/toashiqur/PHP-Feature-Analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Technology Used:
+* TXL
+* PHP
